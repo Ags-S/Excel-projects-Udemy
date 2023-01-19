@@ -1,4 +1,4 @@
-<h1> Retirement plan calcualations </h1>
+<h1 align = "center"> Retirement plan calcualations </h1>
 <br>
 <h3> Task </h3>
 <p> A company (we'll call them Potent Brewing Co.) has hired you to do some calculations on the retirement plans for their employees
