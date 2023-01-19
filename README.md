@@ -21,7 +21,7 @@ Details on the Deliverable fields:
 <br>
 <h3> PROCESS </h3>
 <br>
-  <img src = ""> <br>
+  <img src = "https://github.com/Ags-S/Excel-projects-Udemy/blob/main/spreadsheet.png"> <br>
   <ul>
 <li> <b>Full Name: </b> To obtain Last Name and First Name merged together I have used CONCAT combined with VLOOKUP formula</li>
 <li> <b>Current Age: </b> To obtain current age calculated by the Date of Birth I have used combination of DATEDIF(MATCH(TODAY))) </li>
