@@ -19,7 +19,7 @@ Details on the Deliverable fields:
 </ul>
 <br>
 <br>
-<h3> PROCESS <h3>
+<h3> PROCESS </h3>
 <br>
   <img src = ""> <br>
   <ul>
