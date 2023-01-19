@@ -23,10 +23,10 @@ Details on the Deliverable fields:
 <br>
   <img src = ""> <br>
   <ul>
-<li> <b>Full Name:</b> To obtain Last Name and First Name merged together I have used CONCAT combined with VLOOKUP formula</li>
-<li> <b>Current Age:</b> To obtain current age calculated by the Date of Birth I have used combination of DATEDIF(MATCH(TODAY))) </li>
-<li> <b>Retirement Date:</b> To calculate retirement date I have used combined IF,TODAY, EDATE, INDEX and MATCH </li>
-<li> <b>2020 Total Contributions - 401k:</b>To calculate sum of the employee's 401k contributions I have used SUMIFS formula </li>
-<li> <b>2020 Total Contributions - Roth:</b> To calculate sum of the employee's Roth contributions i have used SUMIFS formula. </li>
-<li> <b>Eligible for Bonus:</b> To calculate if the employee is eligible for bonus I have used IF combined with SUM formula</li>
+<li> <b>Full Name: </b> To obtain Last Name and First Name merged together I have used CONCAT combined with VLOOKUP formula</li>
+<li> <b>Current Age: </b> To obtain current age calculated by the Date of Birth I have used combination of DATEDIF(MATCH(TODAY))) </li>
+<li> <b>Retirement Date: </b> To calculate retirement date I have used combined IF,TODAY, EDATE, INDEX and MATCH </li>
+<li> <b>2020 Total Contributions - 401k: </b>To calculate sum of the employee's 401k contributions I have used SUMIFS formula </li>
+<li> <b>2020 Total Contributions - Roth: </b> To calculate sum of the employee's Roth contributions i have used SUMIFS formula. </li>
+<li> <b>Eligible for Bonus: </b> To calculate if the employee is eligible for bonus I have used IF combined with SUM formula</li>
 </ul>
